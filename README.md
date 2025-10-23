@@ -37,8 +37,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
   <img width="12" />
-  <!-- GIF do BlackArch no lugar do React -->
-  <img src="https://github.com/user-attachments/assets/f2c9c351-2c7d-4cc2-bd39-ff56bfa1a7de" height="45" alt="blackarch linux gif" />
+  <!-- Aqui o ícone do Arch Linux (normal) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="arch linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
