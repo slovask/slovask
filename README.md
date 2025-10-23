@@ -13,7 +13,6 @@
 <p align="left">I use arch btw<br>x64</p>
 
 ###
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=slovask)
 <h2 align="left"></h2>
 
 ###
