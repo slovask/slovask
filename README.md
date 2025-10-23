@@ -13,7 +13,7 @@
 <p align="left">I use arch btw<br>x64</p>
 
 ###
-
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=slovask)
 <h2 align="left"></h2>
 
 ###
@@ -44,10 +44,10 @@
 
 <div align="right">
   <a href="https://open.spotify.com/user/slovask">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=slovask&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=slovask&count=5&unique=false" alt="Spotify recently played" 
+      />
   </a>
 </div>
-
 ###
 
 <img align="left" height="200" src="https://tenor.com/pt-BR/view/hacker-gif-19246062.gif"  />
