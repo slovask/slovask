@@ -37,8 +37,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
   <img width="12" />
-  <!-- Substituí o React por um GIF animado do Kali Linux -->
-  <img src="https://media.tenor.com/AE7I5bHV0LAAAAAC/kali-linux.gif" height="45" alt="kali linux gif" />
+  <!-- GIF do BlackArch no lugar do React -->
+  <img src="https://github.com/user-attachments/assets/f2c9c351-2c7d-4cc2-bd39-ff56bfa1a7de" height="45" alt="blackarch linux gif" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
