@@ -1,19 +1,17 @@
-<div align="left" style="position: relative;">
-  <!-- Fundo Matrix -->
-  <img src="https://i.ibb.co/hZXmYj8/matrix-green.gif" width="435" height="80" style="position:absolute; top:0; left:0; z-index:0; border-radius:8px; opacity:0.8;" alt="Matrix Background" />
-  
-  <!-- Texto Linux com efeito digitando -->
+<!-- ===== MATRIX RED HEADER ===== -->
 <div align="left">
+  <!-- Fundo animado vermelho -->
   <img src="https://i.ibb.co/xL0j9tc/matrix-red.gif" width="435" alt="Matrix Red Background" />
   <br>
+  <!-- Texto animado por cima (digitação) -->
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&pause=1000&color=FFFFFF&center=false&vCenter=true&repeat=true&width=435&lines=LINUX;[ACCESS+GRANTED];EMBRACE+THE+TERMINAL" alt="Linux Hacker Animation" />
 </div>
 
-
 ###
 
+<!-- THE LINUX EMPIRE (typing) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=25&pause=1000&color=000000&center=false&vCenter=true&repeat=true&width=500&lines=THE+LINUX+EMPIRE+NEEDS+YOU.;EMBRACE+LINUX." alt="Linux Empire Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=25&pause=1000&color=000000&center=false&vCenter=true&repeat=true&width=500&lines=THE+LINUX+EMPIRE+NEEDS+YOU.;EMBRACE+LINUX." alt="Linux Empire Animation (black text)" />
 </p>
 
 ###
