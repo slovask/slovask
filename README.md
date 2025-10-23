@@ -1,18 +1,9 @@
-<!-- ===== MATRIX BLACK HEADER ===== -->
+<!-- Título estilo hacker -->
 <div align="left">
-  <!-- Fundo animado preto/verde -->
   <img src="https://i.ibb.co/wyx4TnD/matrix-black.gif" width="435" alt="Matrix Black Background" />
   <br>
-  <!-- Texto animado por cima (digitação) - verde para combinar com fundo -->
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&pause=1000&color=00FF00&center=false&vCenter=true&repeat=true&width=435&lines=LINUX;[ACCESS+GRANTED];EMBRACE+THE+TERMINAL" alt="Linux Hacker Animation (green)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&pause=1000&color=00FF00&center=false&vCenter=true&repeat=true&width=435&lines=LINUX;[ACCESS+GRANTED];EMBRACE+THE+TERMINAL" alt="Linux Hacker Animation" />
 </div>
-
-###
-
-<!-- THE LINUX EMPIRE (typing) - preto conforme pedido (se usar fundo escuro, pode trocar para branco/verde se preferir visibilidade) -->
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=25&pause=1000&color=000000&center=false&vCenter=true&repeat=true&width=500&lines=THE+LINUX+EMPIRE+NEEDS+YOU.;EMBRACE+LINUX." alt="Linux Empire Animation (black text)" />
-</p>
 
 ###
 
@@ -21,8 +12,13 @@
 ###
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=25&pause=1000&color=00BFFF&center=false&vCenter=true&repeat=true&width=300&lines=I+USE+ARCH+BTW;X64" alt="Arch btw Animation" />
+  <span style="color:#00BFFF;">I use Arch btw</span><br>
+  x64
 </p>
+
+###
+
+<h2 align="left"></h2>
 
 ###
 
