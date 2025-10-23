@@ -1,9 +1,12 @@
-<!-- Título estilo hacker -->
-<div align="left">
-  <img src="https://i.ibb.co/wyx4TnD/matrix-black.gif" width="435" alt="Matrix Black Background" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&pause=1000&color=00FF00&center=false&vCenter=true&repeat=true&width=435&lines=LINUX;[ACCESS+GRANTED];EMBRACE+THE+TERMINAL" alt="Linux Hacker Animation" />
-</div>
+<h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&pause=1000&color=000000&center=false&vCenter=true&repeat=true&width=435&lines=LINUX;[ACCESS+GRANTED];EMBRACE+THE+TERMINAL" alt="Linux Hacker Animation" />
+</h1>
+
+###
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=25&pause=1000&color=000000&center=false&vCenter=true&repeat=true&width=500&lines=THE+LINUX+EMPIRE+NEEDS+YOU.;EMBRACE+LINUX." alt="Linux Empire Animation" />
+</p>
 
 ###
 
@@ -12,13 +15,8 @@
 ###
 
 <p align="left">
-  <span style="color:#00BFFF;">I use Arch btw</span><br>
-  x64
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=25&pause=1000&color=00BFFF&center=false&vCenter=true&repeat=true&width=300&lines=I+USE+ARCH+BTW;X64" alt="Arch btw Animation" />
 </p>
-
-###
-
-<h2 align="left"></h2>
 
 ###
 
