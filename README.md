@@ -13,6 +13,7 @@
 <p align="left">I use arch btw<br>x64</p>
 
 ###
+
 <h2 align="left"></h2>
 
 ###
@@ -43,18 +44,16 @@
 
 <div align="right">
   <a href="https://open.spotify.com/user/slovask">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=slovask&count=5&unique=false" alt="Spotify recently played" 
-      />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=slovask&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
 ###
 
 <img align="left" height="200" src="https://tenor.com/pt-BR/view/hacker-gif-19246062.gif"  />
 
 ###
 
-<div align="center">
-  <img height="200" src="https://tenor.com/pt-BR/view/linux-gif-3740677015790732516.gif"  />
-</div>
+<img align="left" height="200" src="https://tenor.com/pt-BR/view/linux-gif-3740677015790732516.gif"  />
 
 ###
